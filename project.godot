@@ -11,5 +11,6 @@ config_version=5
 [application]
 
 config/name="proyecto-ejemplo-para-subir-a-github"
+run/main_scene="uid://riy47rtlpgb1"
 config/features=PackedStringArray("4.5", "Forward Plus")
 config/icon="res://icon.svg"
